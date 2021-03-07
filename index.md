@@ -2,15 +2,23 @@
 
 This page is a work-in-progress.  
 
-I'm currently completing the Computer Science Capstone at Southern New Hampshire University.  This page will be regularly updated to reflect progress in the course and beyond.
+I'm currently completing the Computer Science Capstone at Southern New Hampshire University.  This page will be regularly updated to reflect progress in the course and beyond.  Please pardon my dust in the meantime!
 
-### Header
+### Code Review
 
-Some things will go here.  Please pardon my dust, we just started!
+...
 
-### Header
+### Software Design and Engineering
 
-Some other things.
+...
+
+### Algorithms and Data Structure
+
+...
+
+### Databases
+
+...
 
 ### Contact
 
