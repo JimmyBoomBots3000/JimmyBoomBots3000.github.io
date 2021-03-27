@@ -8,19 +8,23 @@ Please pardon my dust as I build up this work-in-progress!
 ### Code Review
 
 ...
+
 <!---
 My code review of the three projects you see below.  Here I walk through the features of the existing code as it was originally submitted, perform an analysis of this code, and detail the planned improvements (the results of which will be showcasaed here).
 {% include googleDrivePlayer.html id=page.driveId %}
 -->
+
 ### Software Design and Engineering
 
 ...
+
 <!---
 In CS410: **Software Reverse Engineering**, I reverse-engineered a legacy program from binary to assembly to C++, and corrected security flaws in the source code of the reversed program.  Many of these vulnerabilities were due to the legacy programmer not observing proper considerations of C programming, but the original as well as the reversed and revised programs also lack portability.  Both could be enhanced by porting the reversed application to Java, which imposes stricter compile limitations and is also write-once-run-anywhere.  This work is the result of that translation from C++ to Java, which has been further modified to produce more modular code.  
 
 Further enhancements will include JUnit testing.  Source for this project is available [here](https://github.com/JimmyBoomBots3000/Banking).
 
 [![Image](/images/art1.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/art1.jpg)
+
 -->
 ### Algorithms and Data Structure
 
