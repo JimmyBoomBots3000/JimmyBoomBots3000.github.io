@@ -13,7 +13,7 @@ In CS410: **Software Reverse Engineering**, I reverse-engineered a legacy progra
 
 Further enhancements will include JUnit testing.  Source for this project is available [here](https://github.com/JimmyBoomBots3000/Banking).
 
-![Image](/images/art1.jpg)
+[![Image](/images/art1.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/art1.jpg)
 
 ### Algorithms and Data Structure
 
