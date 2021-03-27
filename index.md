@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Thanks for stopping by!
 
-You can use the [editor on GitHub](https://github.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a career electronics technician making a transition to a career in software engineering.  I'm currently wrapping up a BS in Computer Science, concentration in Software Engineering.  This page is a digital portfolio of some of the coursework I've completed during the program and am improving for my program capstone.  
+Please pardon my dust as I build up this work-in-progress!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code Review
 
-### Markdown
+...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Design and Engineering
 
-```markdown
-Syntax highlighted code block
+In CS410: **Software Reverse Engineering**, I reverse-engineered a legacy program from binary to assembly to C++, and corrected security flaws in the source code of the reversed program.  Many of these vulnerabilities were due to the legacy programmer not observing proper considerations of C programming, but the original as well as the reversed and revised programs also lack portability.  Both could be enhanced by porting the reversed application to Java, which imposes stricter compile limitations and is also write-once-run-anywhere.  This work is the result of that translation from C++ to Java, which has been further modified to produce more modular code.  
 
-# Header 1
-## Header 2
-### Header 3
+Further enhancements will include JUnit testing.  Source for this project is available [here](https://github.com/JimmyBoomBots3000/Banking).
 
-- Bulleted
-- List
+![Image](/images/art1.jpg)
 
-1. Numbered
-2. List
+### Algorithms and Data Structure
 
-**Bold** and _Italic_ and `Code` text
+...
 
-[Link](url) and ![Image](src)
-```
+### Databases
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+...
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[JamesBRichmond@protonmail.com](mailto:JamesBRichmond@protonmail.com)
