@@ -1,7 +1,6 @@
 ---
-driveId: 1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW/preview
+driveId: 1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW
 ---
-
 
 ## Thanks for stopping by!
 
