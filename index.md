@@ -7,7 +7,7 @@ Please pardon my dust as I build up this work-in-progress!
 
 My code review of the three projects you see below.  Here I walk through the features of the existing code as it was originally submitted, perform an analysis of this code, and detail the planned improvements (the results of which will be showcasaed here).
 
-<iframe src="https://drive.google.com/file/d/1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW/preview" width="640" height="360" allowfullscreen="allowfullscreen" setPlaybackRate=1.25></iframe>
+<iframe src="https://drive.google.com/file/d/1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW/preview" width="640" height="360" allowfullscreen="allowfullscreen"></iframe>
 
 ### Software Design and Engineering
 
