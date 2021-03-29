@@ -1,5 +1,3 @@
-# James Richmond
-
 ## Thanks for stopping by!
 
 I'm a career electronics technician making a transition to a career in software engineering.  I'm currently wrapping up a BS in Computer Science, concentration in Software Engineering.  This page is a digital portfolio of some of the coursework I've completed during the program and am improving for my program capstone.  
