@@ -10,7 +10,7 @@ My code review of the three projects you see below.  Here I walk through the fea
 <div class="container">
 <iframe src="https://drive.google.com/file/d/1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW/preview" frameborder="0" allowfullscreen class="video"></iframe>
 </div>  
-
+  
 ### Software Design and Engineering
 
 In CS410: **Software Reverse Engineering**, I reverse-engineered a legacy program from binary to assembly to C++, and corrected security flaws in the source code of the reversed program.  Many of these vulnerabilities were due to the programmer of the legacy code not observing proper considerations of C programming, but the original as well as the reversed and revised programs also lack portability.  Both could be enhanced by porting the reversed application to Java, which imposes stricter compile limitations and is also write-once-run-anywhere.  This work is the result of that translation from C++ to Java, which has been further modified to produce more modular code.  
