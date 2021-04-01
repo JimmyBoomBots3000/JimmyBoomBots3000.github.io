@@ -25,7 +25,13 @@ Further enhancements will include JUnit testing.  Source for this project is ava
 
 ### Algorithms and Data Structure
 
-...
+<!---
+
+In CS260: **Data Structures and Algorithms**, I developed four C++ programs, one each demonstrating a **Vector** **Linked List** **Hash Table** and **Binary Search Tree**.  Each program
+
+[![Image](/images/6008765.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/art1.jpg)
+
+-->
 
 ### Databases
 
