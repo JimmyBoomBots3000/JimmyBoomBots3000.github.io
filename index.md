@@ -20,7 +20,7 @@ In CS410: **Software Reverse Engineering**, I reverse-engineered a legacy progra
 
 This artifact originally showcased my ability to reverse-engineer software from binary, but in this revised form, highlights my understanding of object oriented programming, and how different languages can overlap in programming paradigms.  This revision takes the original program and makes it more modular, secure, reliable, and portable.
 
-Determining an effective way to structure the client objects (clients as in people) took a few iterations, and I eventually decided on using a HashMap to store the client objects as key-value pairs.  I’m well aware that this might not represent a real-world use-case, and this structure might be rendered unnecessary with further enhancements such as utilizing a database, but it makes a fine structure for expanding and testing the application.  
+The program currently uses a HashMap to store the client objects as key-value pairs.  I’m well aware that this might not represent a real-world use-case, and a realistic scenario would utilize a database, but it makes a fine structure for expanding and testing the application.  
 
 Planned further enhancements include JUnit testing.  Source for this project is available [here](https://github.com/JimmyBoomBots3000/Banking).
 
@@ -30,15 +30,11 @@ Planned further enhancements include JUnit testing.  Source for this project is 
 
 ### Algorithms and Data Structure
 
-<!---
-
 In CS260: **Data Structures and Algorithms**, I developed four C++ programs, one each demonstrating a **Vector**, **Linked List**, **Hash Table**, and **Binary Search Tree**.  Each program reads data into its respective structure from a csv file, and allows a user to display all items, search the strucutre and display a single item, as well as manipulate the structure by adding or removing an item.  Over time, these programs has been updated for bug fixes and security, and feature adds such as timing operations to compare performance of different operations.
 
 Source code for this project is [here](https://github.com/JimmyBoomBots3000/DataStructuresAndAlgorithms).
 
 [![Image](/images/6008765.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/6008765.jpg)  
--->
-...
 
 ***
 
