@@ -31,6 +31,8 @@ Planned further enhancements include JUnit testing.  Source for this project is 
 
 In CS-260: **Data Structures and Algorithms**, I developed four C++ programs, one each demonstrating a **Vector**, **Linked List**, **Hash Table**, and **Binary Search Tree**.  Each program reads data into its respective structure from a csv file, and allows a user to display all items, search the structure and display a single item, as well as manipulate the structure by adding or removing an item.  Over time, these programs has been updated for bug fixes and security, and feature adds such as timing operations to compare performance of different operations.
 
+I admit, this set of programs may seem pedestrian, but I wanted something to show that I understand data structures and can develop algorithms to suit them, and this demo gets straight to the point.
+
 Source code for this project is at [github.com/JimmyBoomBots3000/DataStructuresAndAlgorithms](https://github.com/JimmyBoomBots3000/DataStructuresAndAlgorithms).
 
 [![Image](/images/6008765.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/6008765.jpg "Data Structures")  
@@ -45,7 +47,7 @@ In CS-340: **Client-Server Development**, I was given a specification as well as
 > 
 > ...Grazioso Salvare is seeking a software application that can work with existing data from the animal shelters to identify and categorize available dogs. Global Rain has contracted for a full stack development of this application that will include a database and a client-facing web application dashboard. Grazioso Salvare will use this dashboard to interact with and visualize data from a MongoDB database. The dashboard must be a user-friendly, intuitive interface that will reduce user errors and training time.
 
-What I produced was a web app, written front-to-back in Python.  To take this demo out of the classroom (where it ran entirely on localhost resources), I have it hosted on Heroku, and established my own MongoDB cluster to house the same data that was used in the original project.  Take it for a spin at [graziososalvare.herokuapp.com](https://graziososalvare.herokuapp.com/).
+What I produced was a web app, written front-to-back in Python.  To take this demo out of the classroom (where it ran entirely on localhost resources), I have it hosted on Heroku, and established my own MongoDB cluster to house the same data that was used in the original project.  The interface has also been cleaned up a bit, and is now utilizing the Bootstrap front-end framework.  Take it for a spin at [graziososalvare.herokuapp.com](https://graziososalvare.herokuapp.com/).
 
 Source code is at [github.com/JimmyBoomBots3000/GraziosoSalvare](https://github.com/JimmyBoomBots3000/GraziosoSalvare).
 
