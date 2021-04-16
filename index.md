@@ -40,7 +40,7 @@ I admit, this set of programs may seem pedestrian, but I wanted something to sho
 
 Source code for this project is at [github.com/JimmyBoomBots3000/DataStructuresAndAlgorithms](https://github.com/JimmyBoomBots3000/DataStructuresAndAlgorithms).
 
-[![Image](/images/6008765.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/6008765.jpg "Data Structures")  
+[![Image](/images/structures.jpg)](https://raw.githubusercontent.com/JimmyBoomBots3000/JimmyBoomBots3000.github.io/main/images/structures.jpg "Data Structures")  
 
 ***
 
