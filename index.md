@@ -1,6 +1,11 @@
-## Thanks for stopping by!
+## Thanks for stopping by! (self-assessment)
 
-I'm a career electronics technician making a transition to a career in software engineering.  I'm currently wrapping up a BS in Computer Science, concentration in Software Engineering.  This page is a digital portfolio of some of the work I've completed during the program. 
+I'm a career electronics technician making a transition to a career in software engineering.  Over the course of earning my Bachelor’s in Computer Science, I’ve been surprised by how much the soft skills of these two professions overlap.  Logical problem solving, mathematical aptitude, organized and methodical thought, and attention to detail are key ingredients in both these fields.  Whether building them up, or tearing them down to better understand them or fix them, I’ve learned that circuits and software require a similar type of thinking to mentally digest.
+
+These professions are also similar in that a good team is always more than the sum of its parts.  Very much like my career  in electronics, having talented peers to bounce ideas off of, and enthusiastic mentors to offer guidance has made earning my degree as much a joy as it was a challenge.
+
+This page is a digital portfolio of some of the work I've completed during the Computer Science (concentration Software Engineering) program at Southern New Hampshire University.  It showcases some of what I’ve learned in topics as broad as data structures and databases, and as narrow as Python web-app frameworks and secure coding in C++.  It’s by no means a comprehensive list of everything I can do, but I hope it highlights my approach to problem-solving (which is not to beat a problem with code until something works).  I plan to add to it as I complete more projects, and even further enhance what’s already here.  
+I’ve left some contact info at the bottom of the page, so feel free to reach out, and thanks for stopping by!
 
 ### Code Review
 
