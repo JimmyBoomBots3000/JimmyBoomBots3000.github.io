@@ -1,4 +1,4 @@
-## Thanks for stopping by! (self-assessment)
+## Thanks for stopping by!
 
 I'm a career electronics technician making a transition to a career in software engineering.  Over the course of earning my Bachelor’s in Computer Science, I’ve been surprised by how much the soft skills of these two professions overlap.  Logical problem solving, mathematical aptitude, organized and methodical thought, and attention to detail are key ingredients in both these fields.  Whether building them up, or tearing them down to better understand them or fix them, I’ve learned that circuits and software require a similar type of thinking to mentally digest.
 
