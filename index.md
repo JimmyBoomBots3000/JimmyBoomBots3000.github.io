@@ -6,7 +6,7 @@ These professions are also similar in that a good team is always more than the s
 
 This page is a digital portfolio of some of the work I've completed during the Computer Science (concentration Software Engineering) program at Southern New Hampshire University.  It showcases some of what I’ve learned in topics as broad as data structures and databases, and as narrow as Python web-app frameworks and secure coding in C++.  It’s by no means a comprehensive list of everything I can do, but I hope it highlights my approach to problem-solving (which is not to beat a problem with code until something works).  I plan to add to it as I complete more projects, and even further enhance what’s already here.  
 I’ve left some contact info at the bottom of the page, so feel free to reach out, and thanks for stopping by!
-
+<!---
 ### Code Review
 
 My code review of the three projects you see below.  Here I walk through the features of the existing code as it was originally submitted, perform an analysis of this code, and detail the planned improvements (the results of which will be showcased here).
@@ -15,7 +15,7 @@ My code review of the three projects you see below.  Here I walk through the fea
 <iframe src="https://drive.google.com/file/d/1MysUefThHCuq-Ze-aeqMAi1ix4_HHIxW/preview" frameborder="0" allowfullscreen class="video"></iframe>
 </div>  
 <p></p>
-
+--->
 ***
 
 ### Software Design and Engineering
