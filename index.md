@@ -8,7 +8,7 @@ Whether building them up, or tearing them down, circuits and software require a 
 
 ### Professional
 
-I've primarily been a Java developer, but my academic and professional experience has had my working in a variety of languages.
+I've primarily been a Java developer, but my academic and professional experience has had me working in a variety of languages.
 Unfortunately,  100% of what I've worked on professionally so far is proprietary, so I can't share any of it here.
 If you're interested in my professional experience, I have [a resume here](https://profile.indeed.com/p/jamesr-zb1cet6).
 
